@@ -1,6 +1,19 @@
 <h1 align="center">🚀 Devmaker Studio</h1>
 <p align="center">Python Development · Automation Engineering · Backend & AI Tools</p>
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-00A98F?style=for-the-badge&logo=robot&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-FFC300?style=for-the-badge&logo=python&logoColor=black)
+![Backend](https://img.shields.io/badge/Backend-6C63FF?style=for-the-badge&logo=fastapi&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
 ---
 
 ## 🧩 Who I Am
