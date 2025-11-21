@@ -1,5 +1,6 @@
 <h1 align="center">🚀 Devmaker Studio</h1>
-<p align="center">Python Development · Automation Engineering · Backend & AI Tools</p>
+<p align="center">Automation Engineer • Python Backend Developer • QA Automation Specialist & AI Tools</p>
+
 
 <div align="center">
 
