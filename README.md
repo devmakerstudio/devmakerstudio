@@ -7,7 +7,9 @@
 ![Automation](https://img.shields.io/badge/Automation-00A98F?style=for-the-badge&logo=robot&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-FFC300?style=for-the-badge&logo=python&logoColor=black)
 ![Backend](https://img.shields.io/badge/Backend-6C63FF?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
