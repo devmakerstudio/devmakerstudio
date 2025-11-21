@@ -18,7 +18,7 @@ My work blends backend development, process automation, testing workflows, and A
 ## 🛠 Tech Stack
 
 ### **Languages**
-Python · Java (basics-mid) · JavaScript (learning)
+Python![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) · Java (basics-mid) · JavaScript (learning)
 
 ### **Automation & Tools**
 Selenium · Pytest · Automation scripts · Scraping · REST automation
