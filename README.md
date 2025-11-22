@@ -56,8 +56,8 @@ Git · GitHub Actions · Docker (learning)
 ## 📫 Contact  
 📧 **devmakerstudio@gmail.com**
 
-## 📫 portfolio  
-📧 **[devmakerstudio@gmail.com](https://devmakerstudio.github.io/)**
+## portfolio  
+📧 **https://devmakerstudio.github.io/**
 
 <p align="center">
   <em>“Clean code. Smart automation. Real solutions.”</em>
